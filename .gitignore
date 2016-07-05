@@ -1,0 +1,6 @@
+*.tmp
+*.mp4
+*.db
+*.log
+.idea/
+*.pyc
